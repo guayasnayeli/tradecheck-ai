@@ -1,0 +1,30 @@
+Producto 1
+Título : Trendy Queen Women's 2 Piece Matching Lounge Set Long Sleeve Side Ruching Top Wide Leg Drawstring Pants Set with Pockets
+Precio : 29..99
+URL    : https://www.amazon.com/Trendy-Queen-Matching-Sweatsuit-Essential/dp/B0F9SW7V12/ref=sr_1_1
+Imagen : https://m.media-amazon.com/images/I/61icMXLgUGL._AC_UL320_.jpg
+--------------------------------------------------
+Producto 2
+Título : Gildan Men's Crew T-Shirts, Multipack, Style G1100
+Precio : 16..80
+URL    : https://www.amazon.com/Gildan-Mens-T-Shirt-Assortment-X-Large/dp/B077ZJXCTS/ref=sr_1_2
+Imagen : https://m.media-amazon.com/images/I/710o0VupScL._AC_UL320_.jpg
+--------------------------------------------------
+Producto 3
+Título : AUTOMET Womens V Neck Long Sleeve Shirt Fall Fashion Tops Tunic Dressy Casual Sweater Clothes Cute Trendy Work Outfits 2026
+Precio : 8..99
+URL    : https://www.amazon.com/AUTOMET-Fashion-Sweater-Clothes-Outfits/dp/B0F297WN7L/ref=sr_1_3
+Imagen : https://m.media-amazon.com/images/I/816yw+HdyTL._AC_UL320_.jpg
+--------------------------------------------------
+Producto 4
+Título : Amazon Essentials Women's Short-Sleeve Crewneck Tiered Dress
+Precio : 19..00
+URL    : None
+Imagen : https://m.media-amazon.com/images/I/71IcUEEFNQL._AC_UL320_.jpg
+--------------------------------------------------
+Producto 5
+Título : SINOPHANT High Waisted Leggings with Pockets Women, Full Length Capri Buttery Soft Stretchy Yoga Pants
+Precio : 7..99
+URL    : https://www.amazon.com/SINOPHANT-High-Waisted-Leggings-Women/dp/B0CKZ4ZWYG/ref=sr_1_5
+Imagen : https://m.media-amazon.com/images/I/61L7eBwEtCL._AC_UL320_.jpg
+--------------------------------------------------
