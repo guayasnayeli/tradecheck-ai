@@ -23,7 +23,8 @@ En una primera etapa, el proyecto se enfoca en la definición del problema, aná
 
 - ✅ Fase 0 — Contexto y análisis del problema
 - ✅ Fase 1 — Metodología ágil y planificación
-- ⏳ Fase 2 — Arquitectura del sistema
+- ✅ Fase 2 — Arquitectura del sistema
+- ⏳ Fase 3 — MVP funcional (simulación)
 
 ## 🛠️ Tecnologías (preliminar)
 
