@@ -1,0 +1,17 @@
+name: CD - Main Stability
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  stability:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate release
+        run: |
+          echo "✔ Stable version deployed (simulated)"
