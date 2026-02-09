@@ -17,29 +17,42 @@ Desarrollar una plataforma que permita comparar productos entre Amazon y Alibaba
 
 ## 🧩 Alcance Inicial
 
-En una primera etapa, el proyecto se enfoca en la definición del problema, análisis del contexto y preparación conceptual del sistema. Algunas funcionalidades serán simuladas en fases posteriores con el fin de validar el flujo completo antes de su implementación real.
+En una primera etapa, el proyecto se enfoca en la definición del problema, análisis del contexto y diseño de la arquitectura del sistema. El desarrollo del MVP se realiza de forma incremental, comenzando por la obtención y estructuración de datos reales.
 
 ## 🧪 Estado del Proyecto
 
 - ✅ Fase 0 — Contexto y análisis del problema
 - ✅ Fase 1 — Metodología ágil y planificación
 - ✅ Fase 2 — Arquitectura del sistema
-- ⏳ Fase 3 — MVP funcional (simulación)
+- ⏳ Fase 3 — Desarrollo del MVP funcional  
+
+## 🗂️ Estructura del Proyecto (Resumen)
+
+El proyecto sigue una arquitectura modular por capas, organizada de la siguiente manera:
+
+- **backend/**: lógica principal del sistema (scraping, limpieza de datos, servicios, IA y persistencia).
+- **frontend/**: interfaz de usuario desarrollada con Streamlit.
+- **data/**: pipeline de datos dividido en crudos, procesados y enriquecidos.
+- **docs/**: documentación académica organizada por fases.
+- **tests/**: pruebas básicas del sistema.
+- **.github/workflows/**: automatización y CI/CD.
+
+Esta organización permite un desarrollo incremental, mantenible y escalable.
 
 ## 🛠️ Tecnologías (preliminar)
 
 - Python  
 - Streamlit  
 - MongoDB Atlas  
-- Inteligencia Artificial  
+- Inteligencia Artificial (Llama 3)  
 - Git y GitHub  
 
 > *Las tecnologías se detallarán y justificarán en fases posteriores del proyecto.*
 
 ## 📁 Documentación
 
-La documentación académica del proyecto se encuentra organizada por fases dentro del repositorio.
+La documentación académica del proyecto se encuentra organizada por fases dentro del directorio `docs/`.
 
 ## 📌 Nota
 
-Este proyecto se desarrolla siguiendo una metodología ágil incremental, comenzando con un análisis conceptual y evolucionando hacia un MVP funcional y una implementación real.
+Este proyecto se desarrolla siguiendo una metodología ágil incremental, priorizando la calidad de los datos, la separación de responsabilidades y la validación progresiva del sistema antes de una implementación completa.
